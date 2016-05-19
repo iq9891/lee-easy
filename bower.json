@@ -1,0 +1,20 @@
+{
+  "name": "lee-easy",
+  "homepage": "https://github.com/iq9891/lee-easy",
+  "authors": [
+    "leerb <914726892@qq.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "client/bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+  }
+}
